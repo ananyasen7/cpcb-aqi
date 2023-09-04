@@ -20,15 +20,15 @@ data from cpcbccr site.
 
 First, clone the repository:
 
-\`\`\`
+```
 git clone https://github.com/yourusername/air-quality-data-fetcher.git
-\`\`\`
+```
 
 Navigate to the project directory:
 
-\`\`\`
+```
 cd air-quality-data-fetcher
-\`\`\`
+````
 
 Install the required packages as needed.
 
@@ -43,9 +43,9 @@ To run this script, you'll need to manually set the 'ccr_public' cookie obtained
 
 In the Python script, find the line where the `cookies` dictionary is defined and set the 'ccr_public' cookie value:
 
-\`\`\`python
+```
 cookies = {'ccr_public': 'your_cookie_value_here'}
-\`\`\`
+```
 
 Replace `'your_cookie_value_here'` with the value you copied.
 If the cookie expires, repeat the same process.
@@ -56,9 +56,9 @@ Set granularity and required parameters in run.py before running the script.
 You can refer to stations and parameters json files in the repo.
 Run the script using the following command:
 
-\`\`\`
-python run.py --from_date "01-01-2023 T00:00:00Z" --to_date "04-01-2023 T12:00:00Z" --city "Jind" --output_json "out.json" --aggregate True
-\`\`\`
+```
+python run.py --from_date "01-01-2023 T00:00:00Z" --to_date "04-01-2023 T12:00:00Z" --city "Delhi" --output_json "out.json" --aggregate True
+```
 
 ### Command Line Arguments
 
