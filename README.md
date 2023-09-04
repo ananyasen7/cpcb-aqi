@@ -34,7 +34,8 @@ Install the required packages as needed.
 
 ## Setting the Cookie
 
-To run this script, you'll need to manually set the 'ccr_public' cookie obtained from the browser after completing the captcha.
+To run this script, you might need to manually set the 'ccr_public' cookie obtained from the browser after completing the captcha.
+Try running it without setting the cookie, if it doesn't work or throws 400 exceptions do the following,
 
 1. Navigate to https://app.cpcbccr.com/AQI_India/ in your web browser.
 2. Complete the captcha if required.
