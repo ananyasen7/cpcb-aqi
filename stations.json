@@ -1,0 +1,206 @@
+[
+  {
+    "cityName": "Delhi",
+    "stationsInCity": [
+      { "id": "site_5024", "name": "Alipur, Delhi - DPCC" },
+      { "id": "site_301", "name": "Anand Vihar, Delhi - DPCC" },
+      { "id": "site_1420", "name": "Ashok Vihar, Delhi - DPCC" },
+      { "id": "site_108", "name": "Aya Nagar, Delhi - IMD" },
+      { "id": "site_1560", "name": "Bawana, Delhi - DPCC" },
+      { "id": "site_104", "name": "Burari Crossing, Delhi - IMD" },
+      { "id": "site_103", "name": "CRRI Mathura Road, Delhi - IMD" },
+      { "id": "site_118", "name": "DTU, Delhi - CPCB" },
+      {
+        "id": "site_1421",
+        "name": "Dr. Karni Singh Shooting Range, Delhi - DPCC"
+      },
+      { "id": "site_1422", "name": "Dwarka-Sector 8, Delhi - DPCC " },
+      { "id": "site_106", "name": "IGI Airport (T3), Delhi - IMD" },
+      { "id": "site_114", "name": "IHBAS, Dilshad Garden, Delhi - CPCB" },
+      { "id": "site_117", "name": "ITO, Delhi - CPCB" },
+      { "id": "site_1423", "name": "Jahangirpuri, Delhi - DPCC" },
+      { "id": "site_1424", "name": "Jawaharlal Nehru Stadium, Delhi - DPCC" },
+      { "id": "site_109", "name": "Lodhi Road, Delhi - IMD" },
+      {
+        "id": "site_1425",
+        "name": "Major Dhyan Chand National Stadium, Delhi - DPCC"
+      },
+      { "id": "site_122", "name": "Mandir Marg, Delhi - DPCC" },
+      { "id": "site_1561", "name": "Mundka, Delhi - DPCC" },
+      { "id": "site_115", "name": "NSIT Dwarka, Delhi - CPCB" },
+      { "id": "site_1427", "name": "Najafgarh, Delhi - DPCC" },
+      { "id": "site_1426", "name": "Narela, Delhi - DPCC" },
+      { "id": "site_1429", "name": "Nehru Nagar, Delhi - DPCC" },
+      { "id": "site_105", "name": "North Campus, DU, Delhi - IMD" },
+      { "id": "site_1428", "name": "Okhla Phase-2, Delhi - DPCC" },
+      { "id": "site_1431", "name": "Patparganj, Delhi - DPCC" },
+      { "id": "site_125", "name": "Punjabi Bagh, Delhi - DPCC" },
+      { "id": "site_1563", "name": "Pusa, Delhi - DPCC" },
+      { "id": "site_107", "name": "Pusa, Delhi - IMD" },
+      { "id": "site_124", "name": "R K Puram, Delhi - DPCC" },
+      { "id": "site_1430", "name": "Rohini, Delhi - DPCC" },
+      { "id": "site_113", "name": "Shadipur, Delhi - CPCB" },
+      { "id": "site_119", "name": "Sirifort, Delhi - CPCB" },
+      { "id": "site_1432", "name": "Sonia Vihar, Delhi - DPCC" },
+      { "id": "site_1562", "name": "Sri Aurobindo Marg, Delhi - DPCC" },
+      { "id": "site_1435", "name": "Vivek Vihar, Delhi - DPCC" },
+      { "id": "site_1434", "name": "Wazirpur, Delhi - DPCC" }
+    ]
+  },
+  {
+    "cityName": "Gurugram",
+    "stationsInCity": [
+      { "id": "site_5025", "name": "NISE Gwal Pahari, Gurugram - IMD" },
+      { "id": "site_5345", "name": "Sector-51, Gurugram - HSPCB" },
+      { "id": "site_5344", "name": "Teri Gram, Gurugram - HSPCB" },
+      { "id": "site_146", "name": "Vikas Sadan, Gurugram - HSPCB" }
+    ]
+  },
+  {
+    "cityName": "Ghaziabad",
+    "stationsInCity": [
+      { "id": "site_5082", "name": "Indirapuram, Ghaziabad - UPPCB" },
+      { "id": "site_5083", "name": "Loni, Ghaziabad - UPPCB" },
+      { "id": "site_5081", "name": "Sanjay Nagar, Ghaziabad - UPPCB" },
+      { "id": "site_144", "name": "Vasundhara, Ghaziabad - UPPCB" }
+    ]
+  },
+  {
+    "cityName": "Jind",
+    "stationsInCity": [
+      { "id": "site_5056", "name": "Police Lines, Jind - HSPCB" }
+    ]
+  },
+  {
+    "cityName": "Karnal",
+    "stationsInCity": [
+      { "id": "site_5049", "name": "Sector-12, Karnal - HSPCB" }
+    ]
+  },
+  {
+    "cityName": "Greater Noida",
+    "stationsInCity": [
+      {
+        "id": "site_1541",
+        "name": "Knowledge Park - III, Greater Noida - UPPCB"
+      },
+      { "id": "site_5121", "name": "Knowledge Park - V, Greater Noida - UPPCB" }
+    ]
+  },
+  {
+    "cityName": "Bulandshahr",
+    "stationsInCity": [
+      { "id": "site_1542", "name": "Yamunapuram, Bulandshahr - UPPCB" }
+    ]
+  },
+  {
+    "cityName": "Meerut",
+    "stationsInCity": [
+      { "id": "site_5258", "name": "Ganga Nagar, Meerut - UPPCB" },
+      { "id": "site_5109", "name": "Jai Bhim Nagar, Meerut - UPPCB" },
+      { "id": "site_5257", "name": "Pallavpuram Phase 2, Meerut - UPPCB" }
+    ]
+  },
+  {
+    "cityName": "Faridabad",
+    "stationsInCity": [
+      { "id": "site_5340", "name": "New Industrial Town, Faridabad - HSPCB" },
+      { "id": "site_5342", "name": "Sector 11, Faridabad - HSPCB" },
+      { "id": "site_5341", "name": "Sector 30, Faridabad - HSPCB" },
+      { "id": "site_263", "name": "Sector- 16A, Faridabad - HSPCB" }
+    ]
+  },
+  {
+    "cityName": "Alwar",
+    "stationsInCity": [
+      { "id": "site_1390", "name": "Moti Doongri, Alwar - RSPCB" }
+    ]
+  },
+  {
+    "cityName": "Bahadurgarh ",
+    "stationsInCity": [
+      { "id": "site_5045", "name": "Arya Nagar, Bahadurgarh - HSPCB" }
+    ]
+  },
+  {
+    "cityName": "Muzaffarnagar",
+    "stationsInCity": [
+      { "id": "site_1550", "name": "New Mandi, Muzaffarnagar - UPPCB" }
+    ]
+  },
+  {
+    "cityName": "Noida",
+    "stationsInCity": [
+      { "id": "site_153", "name": "Sector - 125, Noida - UPPCB" },
+      { "id": "site_111", "name": "Sector - 62, Noida - IMD" },
+      { "id": "site_5123", "name": "Sector-1, Noida - UPPCB" },
+      { "id": "site_5122", "name": "Sector-116, Noida - UPPCB" }
+    ]
+  },
+  {
+    "cityName": "Bhiwadi",
+    "stationsInCity": [
+      { "id": "site_1391", "name": "RIICO Ind. Area III, Bhiwadi - RSPCB" }
+    ]
+  },
+  {
+    "cityName": "Narnaul",
+    "stationsInCity": [
+      { "id": "site_5053", "name": "Shastri Nagar, Narnaul - HSPCB" }
+    ]
+  },
+  {
+    "cityName": "Sonipat",
+    "stationsInCity": [
+      { "id": "site_5041", "name": "Murthal, Sonipat - HSPCB" }
+    ]
+  },
+  {
+    "cityName": "Manesar ",
+    "stationsInCity": [
+      { "id": "site_5039", "name": "Sector-2 IMT, Manesar - HSPCB" }
+    ]
+  },
+  {
+    "cityName": "Panipat",
+    "stationsInCity": [
+      { "id": "site_5048", "name": "Sector-18, Panipat - HSPCB" }
+    ]
+  },
+  {
+    "cityName": "Palwal ",
+    "stationsInCity": [
+      { "id": "site_5050", "name": "Shyam Nagar, Palwal - HSPCB" }
+    ]
+  },
+  {
+    "cityName": "Mandikhera",
+    "stationsInCity": [
+      { "id": "site_5055", "name": "General Hospital, Mandikhera - HSPCB" }
+    ]
+  },
+  {
+    "cityName": "Bhiwani",
+    "stationsInCity": [
+      { "id": "site_5047", "name": "H.B. Colony, Bhiwani - HSPCB" }
+    ]
+  },
+  {
+    "cityName": "Rohtak",
+    "stationsInCity": [
+      { "id": "site_147", "name": "MD University, Rohtak - HSPCB" }
+    ]
+  },
+  {
+    "cityName": "Baghpat",
+    "stationsInCity": [
+      { "id": "site_1569", "name": "New Collectorate, Baghpat - UPPCB" }
+    ]
+  },
+  {
+    "cityName": "Hapur",
+    "stationsInCity": [
+      { "id": "site_5023", "name": "Anand Vihar, Hapur - UPPCB" }
+    ]
+  }
+]
