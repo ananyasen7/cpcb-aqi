@@ -7,7 +7,7 @@ data from cpcbccr site.
 
 ## Features
 
-- Fetch air quality data for a specific city and date range
+- Fetch air quality data for a specific city and date range (note that data is available only for cities in stations.json)
 - Ability to aggregate data (optional)
 - Output the data in JSON format
 
